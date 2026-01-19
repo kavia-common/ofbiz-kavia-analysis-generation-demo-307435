@@ -1,0 +1,7 @@
+The kaviaorderenrichment Help file.
+
+This plugin demonstrates a convention-safe OFBiz extension using:
+- services.xml (Service Engine model)
+- Java service implementation
+- secas.xml (SECA wiring)
+- a small properties config file
